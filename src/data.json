@@ -1,0 +1,55 @@
+{
+  "title": "hello, i'm Maryam Moradi",
+  "subtitle": "UI/UX designer & full stack developer",
+  "links":{
+  "github": "https://github.com/maryaammoradi",
+  "instagram": "https://www.instagram.com/maryaam_moradi/",
+  "unsplash": "https://unsplash.com/@adreamyphotographer"
+  },
+  "sections":[
+    {
+      "title": "about me",
+      "items":[
+        {
+          "type": "p",
+          "content": "I am a web developer & i Love PHP programming."
+        },
+        {
+          "type": "p",
+          "content": "sometimes photographer."
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "items": [
+        {
+          "type": "card",
+          "content":{
+            "image": "images/react.png",
+            "title": "react"
+          }
+        },
+        {
+          "type": "card",
+          "content":{
+            "image": "images/js.png",
+            "title": "js"
+          }
+        },
+        {
+          "type": "card",
+          "content":{
+            "image": "images/php.png",
+            "title": "php"
+          }
+        }
+
+
+      ]
+    }
+  ],
+  "icons" : {
+    "down" : "images/down.png"
+  }
+}

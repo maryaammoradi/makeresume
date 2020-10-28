@@ -1,0 +1,29 @@
+.navigation{
+    width: 100vw;
+    background: #888888;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    color: white;
+}
+.nav-item{
+    display: inline-block;
+    float: right;
+    margin: 0 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.color-me{
+    display: inline-block;
+    float: left;
+    margin: 0;
+    cursor: pointer;
+    font-size: 18px;
+    border: 2px solid #99f2c8;
+    padding: 5px;
+}
+

@@ -1,0 +1,17 @@
+.fullpage{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.down-icon{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: -34px;
+  transform: translateY(-45px);
+}
