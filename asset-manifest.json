@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/makeresume/static/css/main.5193acb7.chunk.css",
+    "main.js": "/makeresume/static/js/main.ce01bf9f.chunk.js",
+    "main.js.map": "/makeresume/static/js/main.ce01bf9f.chunk.js.map",
+    "runtime-main.js": "/makeresume/static/js/runtime-main.638260c9.js",
+    "runtime-main.js.map": "/makeresume/static/js/runtime-main.638260c9.js.map",
+    "static/js/2.51681744.chunk.js": "/makeresume/static/js/2.51681744.chunk.js",
+    "static/js/2.51681744.chunk.js.map": "/makeresume/static/js/2.51681744.chunk.js.map",
+    "index.html": "/makeresume/index.html",
+    "precache-manifest.f448c65f23dfdd2f35166d93fcd29114.js": "/makeresume/precache-manifest.f448c65f23dfdd2f35166d93fcd29114.js",
+    "service-worker.js": "/makeresume/service-worker.js",
+    "static/css/main.5193acb7.chunk.css.map": "/makeresume/static/css/main.5193acb7.chunk.css.map",
+    "static/js/2.51681744.chunk.js.LICENSE.txt": "/makeresume/static/js/2.51681744.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.638260c9.js",
+    "static/js/2.51681744.chunk.js",
+    "static/css/main.5193acb7.chunk.css",
+    "static/js/main.ce01bf9f.chunk.js"
+  ]
+}
